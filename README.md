@@ -7,4 +7,6 @@ The **Apps** folder contains complete apps with their source code
 
 The **Code Snippets** folder contains App Inventor samples to illustrate particular feaures
 
+The **Resources** folder contains images, logos, sound etc resources for the course
+
 
