@@ -8,4 +8,5 @@ This folder contains completed apps for the course
 
 
 The files ending .aia are the App Inventor Source code.
+
 The files ending .apk are the compiled Android Applications and can be uploaded to your phone.
